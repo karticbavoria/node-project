@@ -17,7 +17,7 @@ router.get('/api/v1/users', async(req,res)=>{
     }catch (error){
         res.status(500).send(`Internal server Error: ${error}`);
             
-        
+        console.log(error);
     }
 
 });
