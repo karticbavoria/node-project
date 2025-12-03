@@ -1,21 +1,24 @@
 {
 "users": [
 {
-    "id" : "John321",
-    "username": "John",
+    "id" : "1",
+    "first_name": "John",
+    "username": "John23",
     "email": "john@example.com"
 
 }   ,
 
 {
-    "id": "Maria321",
-    "username": "Maria",
+    "id": "2",
+    "First_name": "Maria",
+    "username": "Maria32",
     "email" : "Maria@example.com"
 },
 
 {
-    "id": "Harsh321",
-    "username": "Harsh",
+    "id": "3",
+    "first_name": "Harsh",
+    "username": "Harsh24",
     "email": "Harsh@example.com"
 }
 
